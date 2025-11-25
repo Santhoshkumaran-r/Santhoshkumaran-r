@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santhosh Kumaran R</h1>
-<h3 align="center">Android Developer | Kotlin & Java Enthusiast | Full Stack Web Developer</h3>
+<h3 align="center">Android Developer </h3>
 
 ---
 
@@ -7,17 +7,16 @@
 
 - 🎓 I completed my MCA and currently work as an **Android Developer**
 - 💡 I have also completed a **Full Stack Web Development** course
-- 💻 Skilled in **Kotlin** and **Java** for Android development
+- 💻 Skilled in **Java** for Android development
 - 🌱 Currently learning and building Android apps, while nurturing my passion for **Web Development**
 - 🚀 Open to new opportunities and collaborations
-- 💬 Ask me about anything related to **Web Development** or **Kotlin**
+- 💬 Ask me about anything related to **Web Development** or **Android development**
 
 ---
 
 ### 🛠️ Tech Stack
 
-- **Languages**: Kotlin, Java  
-- **Mobile**: Android SDK, Jetpack Components, Camera2 API  
+- **Languages**: Java  
 - **Web**: HTML, CSS, JavaScript, React, Node.js (learning)  
 - **Tools**: Git, GitHub, Android Studio, VS Code, Postman
 
